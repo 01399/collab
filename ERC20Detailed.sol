@@ -26,7 +26,7 @@ contract ERC20Detailed is IERC20 {
 
         _name = collab;
 
-        _symbol = ccol;
+        _symbol = coll;
 
         _decimals = 8;
 
